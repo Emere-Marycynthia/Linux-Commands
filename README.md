@@ -15,8 +15,8 @@ Purpose
 Environment Used
 - Kali Linux (for practical command execution)
 
-Goal
-To understand and practice Linux commands through real terminal usage, not just theory.
+Goal/Objective
+- To understand and practice Linux commands through real terminal usage, not just theory.
 
 Note
-All commands in this repository are tested in a controlled learning environment.
+- All commands in this repository are tested in a controlled learning environment.
