@@ -17,7 +17,6 @@ pwd
 Lists files and directories.
 
 ### Command:
-ls
 ls -la
 
 ### When to use:
